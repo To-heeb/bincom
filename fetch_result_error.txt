@@ -1,0 +1,14 @@
+Unable to get individual polling unit result because Table 'bincom_test.announced_pu_results where polling_unit_uniqueid = '2'' doesn't exist
+Unable to get individual polling unit result because Table 'bincom_test.announced_pu_results where polling_unit_uniqueid = '8'' doesn't exist
+Unable to get individual polling unit result because Table 'bincom_test.announced_pu_results where polling_unit_uniqueid = '8'' doesn't exist
+Unable to get individual polling unit result because Table 'bincom_test.announced_pu_results where polling_unit_uniqueid = '8'' doesn't exist
+Unable to get individual polling unit result because Table 'bincom_test.announced_pu_results where polling_unit_uniqueid = '9'' doesn't exist
+Unable to get individual polling unit result because Table 'bincom_test.announced_pu_results where polling_unit_uniqueid = '9'' doesn't exist
+Unable to get individual polling unit result because Table 'bincom_test.announced_pu_results where polling_unit_uniqueid = '9'' doesn't exist
+Unable to get individual polling unit result because Table 'bincom_test.announced_pu_results where polling_unit_uniqueid = '10'' doesn't exist
+Unable to get individual polling unit result because Table 'bincom_test.announced_pu_results where polling_unit_uniqueid = '10'' doesn't exist
+Unable to get individual polling unit result because Table 'bincom_test.announced_pu_results where polling_unit_uniqueid = 10' doesn't exist
+Unable to get individual polling unit result because Table 'bincom_test.announced_pu_results where polling_unit_uniqueid = 10' doesn't exist
+Unable to get individual polling unit result because Table 'bincom_test.announced_pu_results where polling_unit_uniqueid = 10' doesn't exist
+Unable to get individual polling unit result because Table 'bincom_test.announced_pu_results where polling_unit_uniqueid = 10' doesn't exist
+Unable to get individual polling unit result because Table 'bincom_test.announced_pu_results where polling_unit_uniqueid = '10'' doesn't exist
